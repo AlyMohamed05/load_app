@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">Load App</string>
+    <string name="download">Download</string>
+    <string name="item_1_text">Glide-Image Loading Library by BumpTech</string>
+    <string name="item_2_text">LoadApp-Current repository by Udacity</string>
+    <string name="item_3_text">Retrofit-Typesafe HTTP client for android and Java by Square, Inc</string>
 </resources>
