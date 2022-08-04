@@ -115,7 +115,9 @@ class HomeActivity : AppCompatActivity() {
     }
 
     private fun animateBackward() {
-        animation.reverse()
+        if(Build.VERSION.SDK_INT>26){
+            animation.reverse()
+        }
     }
 
     private fun initNotificationChannels() {
