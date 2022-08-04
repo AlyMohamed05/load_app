@@ -14,5 +14,7 @@
     <string name="download_result_channel_id">DOWNLOAD_RESULT_CHANNEL</string>
     <string name="download_result_channel_name">Download Results</string>
     <string name="download_result_channel_description">sends notifications to show download result</string>
+    <string name="file_name">File name : </string>
+    <string name="status">Status :</string>
 
 </resources>
