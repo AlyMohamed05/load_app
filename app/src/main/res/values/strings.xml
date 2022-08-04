@@ -1,7 +1,18 @@
 <resources>
+
     <string name="app_name">Load App</string>
+
     <string name="download">Download</string>
     <string name="item_1_text">Glide-Image Loading Library by BumpTech</string>
     <string name="item_2_text">LoadApp-Current repository by Udacity</string>
     <string name="item_3_text">Retrofit-Typesafe HTTP client for android and Java by Square, Inc</string>
+
+    <string name="download_status_channel_id">DOWNLOAD_STATUS</string>
+    <string name="download_status_channel_name">Download Status</string>
+    <string name="download_status_channel_description">sends notifications that shows download progress</string>
+
+    <string name="download_result_channel_id">DOWNLOAD_RESULT_CHANNEL</string>
+    <string name="download_result_channel_name">Download Results</string>
+    <string name="download_result_channel_description">sends notifications to show download result</string>
+
 </resources>
